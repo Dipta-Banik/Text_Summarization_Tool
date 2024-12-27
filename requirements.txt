@@ -1,5 +1,0 @@
-nltk==3.7
-spacy==3.1.0
-sklearn==0.24.2
-streamlit==1.7.0
-heapq (no need to install; it's built-in)
